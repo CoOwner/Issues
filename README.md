@@ -1,11 +1,11 @@
-# Vexus Network Issue Tracker
+# Hyzeria Network Issue Tracker
 
 This is the place to report any issues you find on our services. These include:
 - Server Issues & Bugs
 - Web Issues & Bugs
 - Teamspeak Issues & Bugs
 
-POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT VEXUS ADMINISTRATORS PRIVATELY
+POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT HYZERIA ADMINISTRATORS PRIVATELY
 ### Contributing
 
 #### Server Issues & Bugs
